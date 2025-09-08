@@ -14,6 +14,7 @@
 | Minggu | Link Tugas                                                                 |
 |--------|-----------------------------------------------------------------------------|
 | Week 02 | [Tugas Week 02](https://github.com/mlnrengga/Mob-Prog_Semester-5/tree/main/Week_02) |
+| Week 03 | [Tugas Week 03](https://github.com/mlnrengga/Mob-Prog_Semester-5/tree/main/Week_03) |
 
 ---
 
