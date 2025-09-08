@@ -133,7 +133,7 @@ void main() {
 *Output yang dihasilkan:*
 ---
 ![](img/ss6.png)
-## Praktikum 3
+## TUGAS
 ---
 ```dart
 void main() {
