@@ -21,6 +21,7 @@
 | Week 07 | [Tugas Week 07](https://github.com/mlnrengga/Mob-Prog_Semester-5/tree/main/Week_07) |
 | Week 09 | [Tugas Week 09](https://github.com/mlnrengga/Mob-Prog_Semester-5/tree/main/Week_09) |
 | Week 10 | [Tugas Week 10](https://github.com/mlnrengga/Mob-Prog_Semester-5/tree/main/Week_10) |
+| Week 11 | [Tugas Week 11](https://github.com/mlnrengga/Mob-Prog_Semester-5/tree/main/Week_11) |
 
 ---
 
